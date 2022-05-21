@@ -34,7 +34,7 @@ nav{
 
 .main{
     width: 100%;
-    height: calc(100%-60px);
+    height: calc(100% - 60px);
     background: url(../img/boy.png) 90% 100%/auto 85% no-repeat , url(../img/bg.jpg) center/cover no-repeat;
 }
 
@@ -66,3 +66,48 @@ nav{
     padding: 0px 16p;
     margin: 50px  14px 0px 14px;
 }
+
+
+.obo_mne{
+    width: 100%;
+    height: 715px;
+    background: url(../img/orandg.png) 50% 10%/auto 1% no-repeat, url(../img/chb.png) 50% 25%/auto 30% no-repeat , url(../img/white.jpg) center/cover no-repeat;
+}
+
+.punkt1{
+    float: center;
+    margin:106px 0px 0px 0px ;
+    color:#fcfdfd; 
+    text-align: center;    
+}
+
+.punkt1 h2{
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color:#263244;
+}
+
+.block1 {
+    margin-top: 315px;
+    font-size: 22px;
+    color:#3f495a;    
+}
+
+.block2 {
+    margin-top: 35px;
+    font-size: 22px;
+    color:#3f495a;
+}
+
+.punkt1 input{
+    height: 40px;
+    border: 2px solid #6f707e;
+    border-radius: 5px;
+    color:#6f707e;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 35px  14px 0px 14px;
+}
+
+
