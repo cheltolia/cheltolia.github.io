@@ -1,5 +1,6 @@
 body{
     font-family: Arial, sans-serif;
+    
 }
 
 nav{
@@ -71,27 +72,33 @@ nav{
 .obo_mne{
     width: 100%;
     height: 715px;
-    background: url(../img/orandg.png) 50% 10%/auto 1% no-repeat, url(../img/chb.png) 50% 25%/auto 30% no-repeat , url(../img/white.jpg) center/cover no-repeat;
+    background: url(../img/orandg.png) 50% 7%/auto 0.5% no-repeat, url(../img/chb.png) 50% 20%/auto 30% no-repeat , url(../img/white.jpg) center/cover no-repeat;
 }
 
 .punkt1{
     float: center;
-    margin:106px 0px 0px 0px ;
-    color:#fcfdfd; 
+    margin:105px 0px 0px 0px ;
+    color:#243042; 
     text-align: center;    
 }
 
 .punkt1 h2{
-    font-size: 50px;
+    font-size: 25px;
     font-weight: bold;
     text-transform: uppercase;
     color:#263244;
 }
 
+span{
+    text-align: center;
+    position: relative;
+    display: block;
+    left: -150px;
+}
 .block1 {
     margin-top: 315px;
     font-size: 22px;
-    color:#3f495a;    
+    color:#3f495a;   
 }
 
 .block2 {
@@ -110,4 +117,536 @@ nav{
     margin: 35px  14px 0px 14px;
 }
 
+.chto_i{
+    width: 100%;
+    height: 520px;
+    background: url(../img/orandg.png) 50% 30%/auto 0.7% no-repeat, url(../img/fonch.jpg)center/cover no-repeat
+}
 
+.punkt2 {
+    float: center;
+    margin:0px 0px 0px 0px ;
+    color:#fcfdfd; 
+    text-align: center;
+}
+.punkt2 h2{
+    position: relative;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color:#263244;
+    top:105px;
+}
+.iconki{
+    float: center;
+    width: 1100px;
+    height: 170px;
+    position: relative;
+    display: flex;
+    color:black;
+    justify-content: space-between;
+    align-items: center;
+    left: 350px;
+    top: 200px;
+}
+.mac img, .sign img, .rocket img, .gramophone img{
+    position: relative;
+    top: -30px;
+}
+.mac h4{
+    font-size: 15px;
+    padding-bottom: 15px;
+    color:#cf7600;
+    font-weight: bold;
+}
+.mac p{
+    font-size: 15px;
+    color:#3f495a;
+}
+.sign h4{
+    font-size: 15px;
+    padding-bottom: 15px;
+    color:#cf7600;
+    font-weight: bold;
+}
+.sign p{
+    font-size: 15px;
+    color:#3f495a;
+}
+.rocket h4{
+    font-size: 15px;
+    padding-bottom: 15px;
+    color:#cf7600;
+    font-weight: bold;
+}
+.rocket p{
+    font-size: 15px;
+    color:#3f495a;color:#3f495a;
+}
+.gramophone h4{
+    font-size: 15px;
+    padding-bottom: 15px;
+    color:#cf7600;
+    font-weight: bold;
+}
+.gramophone p{
+    font-size: 15px;
+    color:#3f495a;
+}
+
+.punkt3 {
+    float: center;
+    margin:0px 0px 0px 0px ;
+    color:#fcfdfd; 
+    text-align: center;
+}
+.punkt3 h2{
+    position: relative;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color:#263244;
+    top:105px;
+}
+.orandg  img{
+    position: relative;
+    top: 130px;
+}
+.punkt3 p{
+    position: relative;
+    font-size: 15px;
+    color:#3f495a;
+    top: 150px;
+    text-align: center;
+    
+}
+.skrin img{
+    position: relative;
+    right: 165px;
+    top: 200px;
+}
+.client h2{
+    font-size: 20px;
+    top: 10px;
+    text-align: left;
+    left: 360px;
+    
+}
+.client p{
+    font-size: 15px;
+    color:#3f495a;
+    top: 20px;
+    text-align: left;
+    left: 360px;
+}
+.website h2{
+   font-size: 20px;
+    top: 30px;
+    text-align: left; 
+    left: 360px;
+}
+.website p{
+    font-size: 15px;
+    color:#3f495a;
+    top: 40px;
+    text-align: left;
+    left: 360px;
+}
+
+.hp h2{
+    position: relative;
+    font-size: 20px;
+    top: -60px;
+    right: 150px;
+    left: -165px;
+}
+
+.hp p{
+    position: relative;
+    margin: 0 auto;
+    width: 900px;
+    font-size: 15px;
+    text-align: left;
+    font-size: 13pt;
+    color:#3f495a;
+    top: -60px;
+    left: 180px;
+    line-height: 20px;
+}
+
+.punkt3 input{
+    height: 40px;
+    background-color: #63b5ae;
+    border-radius: 5px;
+    color:white;
+    font-size: 13px;
+    padding: 0px 50px;
+    margin: 0px  930px 0px 14px;
+}
+
+.price{
+    width: 100%;
+    height: 715px;
+    background:  url(../img/white.jpg) center/cover no-repeat;
+}
+
+.punkt4 {
+    float: center;
+    margin:0px 0px 0px 0px ;
+    color:#fcfdfd; 
+    text-align: center;
+}
+.punkt4 h2{
+    position: relative;
+    font-size: 25px;
+    font-weight: bold;
+    color:#263244;
+    top:105px;
+}
+
+
+
+.ts h2{
+    position: relative;
+    font-size: 20px;
+    top: 150px;
+    right: 370px;
+}
+
+.ts select{
+   position: relative;
+    top: 170px;
+    left: 23px;
+    height: 60px;
+    background-color:#eeeeee;
+    color: #6f707e;
+    font-size: 13px;
+    padding: 0px 377px;
+
+}
+.diz h2{
+    position: relative;
+    font-size: 20px;
+    top: 200px;
+    right: 380px;
+}
+.diz select{
+    position: relative;
+    top: 220px;
+    left: 23px;
+    text-align: left;
+    height: 60px;
+    background-color:#eeeeee;
+    color: #6f707e;
+    font-size: 13px;
+    padding: 0px 377px;
+}
+.ad h2{
+    position: relative;
+    font-size: 20px;
+    top: 250px;
+    right: 345px;
+}
+.ad select{
+    position: relative;
+    top: 270px;
+    height: 60px;
+    left: 23px;
+    background-color:#eeeeee;
+    color: #6f707e;
+    font-size: 13px;
+    padding: 0px 377px;
+}
+
+.hr-rectange{
+    position: relative;
+    left: 490px;
+    width: 890px;
+    height: 2px;
+    top: 300px;
+    background-color: gray;
+}
+
+
+.ss{
+    position: relative;
+    top: 200px;
+}
+
+
+
+.ss h2{
+    position: relative;
+    left: 490px;
+    text-align: left;
+    line-height: 40px;
+    word-spacing: 790px;
+}
+.ss h2:last-child{
+    word-spacing: 732px;
+}
+
+
+
+
+.statistics{
+    width: 100%;
+    height: 520px;
+    background: url(../img/orandg.png) 50% 30%/auto 0.7% no-repeat, url(../img/ns.jpg)center/cover no-repeat
+}
+
+.punkt5 {
+    float: center;
+    margin:0px 0px 0px 0px ;
+    color:#fcfdfd; 
+    text-align: center;
+}
+.punkt5 h3{
+    position: relative;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color:#263244;
+    top:105px;
+}
+.stat{
+    float: center;
+    width: 1100px;
+    height: 170px;
+    position: relative;
+    display: flex;
+    color:black;
+    justify-content: space-between;
+    align-items: center;
+    left: 350px;
+    top: 200px;
+}
+.smail img, .time img, .win img, .prize img{
+    position: relative;
+    top: -30px;
+}
+.smail h2{
+    font-size: 25px;
+    padding-bottom: 15px;
+    color:#323e4f;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.smail p{
+    font-size: 15px;
+    color:#3f495a;
+}
+.time h2{
+    font-size: 25px;
+    padding-bottom: 15px;
+    color:#323e4f;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.time p{
+    font-size: 15px;
+    color:#3f495a;
+}
+.win h2{
+    font-size: 25px;
+    padding-bottom: 15px;
+    color:#323e4f;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.win p{
+    font-size: 15px;
+    color:#3f495a;
+}
+.prize h2{
+    font-size: 25px;
+    padding-bottom: 15px;
+    color:#323e4f;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.prize p{
+    font-size: 15px;
+    color:#3f495a;
+}
+
+
+/*делать точки 
+упорядочить стиль
+*/
+.otzav{
+    width: 100%;
+    height: 600px;
+    background: url(../img/orandg.png) 50% 30%/auto 0.7% no-repeat, url(../img/white.jpg)center/cover no-repeat
+}
+
+.punkt6{
+    float: center;
+    margin:0px 0px 0px 0px ;
+    color:#243042; 
+    text-align: center;   
+}
+.punkt6 h2{
+   position: relative;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color:#263244;
+    top:105px;
+}
+
+.chel img{
+    position: relative;
+    top: 220px;
+}
+
+.hr-rectange{
+    width: 890px;
+    height: 2px;
+    background-color: gray;
+}
+.text1 {
+    position: relative;
+   top:235px;
+}
+
+.text2 {
+    position: relative;
+   top:300px;
+}
+.toch{
+    width: 70px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    left: 880px;
+    top: 50px;
+   
+}
+.moi_kontakt{
+    width: 100%;
+    height: 810px;
+    background: url(../img/orandg.png) 50% 30%/auto 0.7% no-repeat, url(../img/kontakt.jpg)center/cover no-repeat
+}
+
+.punkt7 {
+    float: center;
+    margin:0px 0px 0px 0px ;
+    color:#fcfdfd; 
+    text-align: center;
+}
+
+.punkt7 h2{
+   position: relative;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    top:100px;
+}
+.punkt7 p{
+    position: relative;
+    font-size: 15px;
+    top: 160px;
+}
+.punkt7-content{
+    position: relative;
+    width: 600px;
+    display: flex;
+    left: 250px;
+    top:-50px;
+}
+
+.kontakt{
+    float: center;
+    width: 1100px;
+    height: 170px;
+    position: relative;
+    display: flex;
+    color:white;
+    justify-content: space-between;
+    align-items: center;
+    left: 350px;
+    top: 100px;
+}
+
+.punkt7 h3{
+   position: relative;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    top:150px;
+}
+
+.phone img, .convert img, .kontakt img{
+    position: relative;
+    top: 150px;
+}
+.feedback{
+    width: 800px;
+    position: relative;
+    margin: 10px auto;
+    justify-content: space-between;
+    top: 250px;
+    left: 0;
+}
+.feedback h3{
+    position: relative;
+    top: -30px;
+}
+.feedback input{
+    width: 350px;
+    height: 35px;
+    margin-left: 20px;
+    opacity: .8;
+}
+.feedback input:last-child{
+    width: 125px;
+    height: 50px;
+    margin-left: 20px;
+    background-color: none;
+    border: 3px solid white;
+    background: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    opacity: 1;
+    color: white;
+}
+.feedback textarea{
+    margin-top: 10px;
+    width: 730px;
+    height: 100px;
+    margin-left: 20px;
+    opacity: .8;
+    resize: none;
+}
+.carta{
+    width: 100%;
+    height: 355px;
+    background: url(../img/cart.jpg) left/cover no-repeat;
+    
+}
+.carta img{
+    position: relative;
+    top: 140px;
+    left: 850px;
+}
+.carta p{
+    position: relative;
+    top: 95px;
+    left: 890px;
+    font-size: 15px;
+}
+.end{
+   width: 100%;
+    height: 90px;
+    background: url(../img/end.jpg) center/cover no-repeat;
+}
+
+.end p{
+    position: relative;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    top: 40px;
+    
+}
